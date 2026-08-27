@@ -4,6 +4,7 @@ This project demonstrates Git and GitHub fundamentals including branching, mergi
 ## Features
 - Basic arithmetic operations (add, subtract, multiply)
 - Simple command-line output
-#### Technologies Used
+## Technologies Used
 - Python 3
-- Git & GitHub
+- Git & Github
+-  VS Code
