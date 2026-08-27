@@ -3,5 +3,5 @@ from utils import add, subtract
 
 print("Istiak Ahmed Bappi")
 print(date.today())
-print("Addition of 5 and 3 is:", add(5, 3))
-print("Subtraction of 5 and 3 is:", subtract(5, 3))
+print("5 + 3 =", add(5, 3))
+print("5 - 3 =", subtract(5, 3))
